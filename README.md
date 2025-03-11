@@ -6,7 +6,7 @@ The goal of this repository is to create an API system that aggregates data from
 
 
 # Available Routes
-Base url: `added soon` \
+Base url: [https://codeprofile.koyeb.app](https://codeprofile.koyeb.app) \
 Method: `GET`
 | S.No | Platform | Endpoint |
 | :---: | :---: | --- |
